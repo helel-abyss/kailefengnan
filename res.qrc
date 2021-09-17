@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/icons8-about-50.png</file>
+        <file>image/icons8-bookmark-50.png</file>
+        <file>image/icons8-cursor-50.png</file>
+        <file>image/icons8-delete-50.png</file>
+        <file>image/icons8-edit-50.png</file>
+        <file>image/icons8-folder-50.png</file>
+        <file>image/icons8-home-50.png</file>
+        <file>image/icons8-image-file-50.png</file>
+        <file>image/icons8-lock-50.png</file>
+        <file>image/icons8-menu-50.png</file>
+        <file>image/icons8-padlock-50.png</file>
+        <file>image/icons8-plus-+-50.png</file>
+        <file>image/icons8-refresh-50.png</file>
+        <file>image/icons8-search-50.png</file>
+        <file>image/icons8-services-50.png</file>
+        <file>image/icons8-speech-bubble-50.png</file>
+        <file>image/icons8-support-50.png</file>
+        <file>image/icons8-trash-50.png</file>
+        <file>image/icons8-trash-can-50.png</file>
+        <file>image/icons8-unavailable-50.png</file>
+        <file>image/icons8-user-male-50.png</file>
+    </qresource>
+</RCC>
